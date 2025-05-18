@@ -1,0 +1,29 @@
+Wisc ID: ccaton
+GitHub ID: ccaton64
+
+[x] correct WB1 Canvas Assignment submission on time [none]: 
+[x] completed 01-workbook.txt in the for_student folder correctly [none]: 
+[x] change web page text [01-01-01]: 
+[x] make a red button with your name in it [01-02-08]: 
+[x] change text on button press [01-03-02]: 
+[x] add a javascript file that says something [01-04-07]: 
+[x] change slider speed to half [01-05-04b]: 
+[x] making 3 sliders [01-06-01]: 
+[x] making slider3 be slider2-slider1 (and update when either slider2 or slider1 is moved) [01-06-01]: 
+[x] adjusting slider1 and slider2 when slider3 moves [01-06-01]: 
+[x] making the 3 input elements [01-06-02]: 
+[x] making the slider move (continuously) when start is pressed [01-06-02]: 
+[x] making the slider stop when the stop button is pressed [01-06-02]: 
+[x] making the slider starting again when the start button is pressed (after being stopped) [01-06-02]: 
+[x] correct use of time delta [01-06-03]: 
+[x] slider goes forward [01-06-03]: 
+[x] slider goes backward [01-06-03]: 
+[x] slider goes back and forth [01-06-03]: 
+[x] correct use of time delta [01-06-04]: 
+[x] fade between colors [01-06-04]: 
+[x] colors transition in both directions (red->white, white->red - or others) [01-06-04]: 
+[x] fade between 3 different colors [01-07-01]: 
+[x] buttons to cause fade to 3 colors [01-07-02]: 
+[x] randomly change between colors with timing [01-07-03]: 
+[ ] put selected colors into the sequence [01-07-03]: 
+

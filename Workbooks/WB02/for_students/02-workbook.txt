@@ -1,0 +1,25 @@
+Wisc ID:ccaton
+GitHub ID:ccaton64
+
+[x] correct WB2 Canvas Assignment submission on time [none]: 
+[x] completed 02-workbook.txt in the for_student folder correctly [none]: 
+[x] 2 pts for each of 4 shapes [02-04-01]: 
+[x] making a picture [02-04-02]: 
+[x] shapes that aren't rectangles [02-04-02]: 
+[x] transparency (must explain in 02-workbook.txt) [02-04-02]: The beer inside of Homer Simpsons mug is visible
+    because his mug is transparent
+[x] making circles appear when the mouse is clicked [02-07-01]: 
+[x] having the circles change color when the mouse is over them [02-07-01]: 
+[x] having the circles change their color back when the mouse leaves them [02-07-01]: 
+[x] user clicks mouse, firework shoots from the bottom towards mouse [02-08-01]: 
+[x] firework moves to mouse position over time [02-08-01]: 
+[x] firework disappears (explodes) when it gets to position [02-08-01]: 
+[x] small moving pieces appear where big one explodes [02-08-01]: 
+[x] pieces move outward from explosion [02-08-01]: 
+[x] multiple fireworks at once (if user clicks quickly) [02-08-01]: 
+[x] fireworks are different colors [02-08-01]: 
+[x] having the circle change color when clicked (advanced points), with the hover behavior still working [02-07-01]: 
+[x] explosions fade out (or disappear) after a distance [02-08-01]: 
+[x] fireworks start from random locations at bottom [02-08-01]: 
+[x] random fireworks in addition to user clicks [02-08-01]: 
+[ ] projectile motion [02-08-01]: 

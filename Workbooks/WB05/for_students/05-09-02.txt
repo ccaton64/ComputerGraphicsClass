@@ -1,0 +1,2 @@
+The body has C(1) connectivity as it is formed with a sequence of Bézier curves, which ensures smooth tangents at the transition points.
+

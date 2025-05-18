@@ -1,0 +1,5 @@
+Explain how your shader works. If your shader is based on some example, cite your source (with a link).
+ 
+ Made very similar to the checkerboard except with more alternating color and then the added straight lines
+ Based on my ancestors family plaid 
+ https://www.tartanregister.gov.uk/tartanDetails?ref=4041

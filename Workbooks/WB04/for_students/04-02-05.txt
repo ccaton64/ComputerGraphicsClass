@@ -1,0 +1,7 @@
+context.scale(2,2);
+context.translate(5,5);
+
+is equivalent to:
+
+context.translate(2.5, 2.5);
+context.scale(2,2);

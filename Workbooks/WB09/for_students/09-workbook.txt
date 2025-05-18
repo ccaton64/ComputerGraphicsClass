@@ -1,0 +1,33 @@
+Wisc ID: ccaton
+GitHub ID: ccaton64
+
+[X] correct WB9 Canvas Assignment submission on time [none]: 
+[X] completed 09-workbook.txt in the for_student folder correctly [none]: 
+[X] (at least one) texture you made by painting (described in the readme) [none]: I used photoshop and followed this tutorial and changed up some things to make my brick texture: https://www.youtube.com/watch?v=cFz6CdR4POU
+[X] (at least one) texture you found on the web (described in readme with proper attribution) [none]: https://www.freepik.com/free-ai-image/handcrafted-wooden-decorative-sculpture_94951225.htm Image by freepik
+[X] (at least one) a texture you made by taking a picture (described in the readme) [none]: In 09-01-01 I used a picture of a redbull can I cut open to wrap around the object.
+[X] identifyable as a real object [09-01-01]: 
+[X] texture makes it look like a real object [09-01-01]: 
+[X] an appropriate scene (objects, lighting, …) [09-02-01]: 
+[X] clear use of mat prop map [09-02-01]: 
+[X] material map use explained [09-02-01]: A darker variant is being used to controll the metalness of the sphere
+[X] appropriate scene (objects and lighting) [09-03-01]: 
+[X] bump map object looks “bump mappy” [09-03-01]: 
+[X] confirm bump map is a bump map (1 channel) [09-03-01]: 
+[X] normal map object looks “normal mappy” [09-03-01]: 
+[X] confirm normal map is a normal map (3 channels) [09-03-01]: 
+[X] explaination of how we can see the effects [09-03-01]: look at it from the side
+[X] both 4-1 and 4-2 look like a skybox [09-04-01]: https://www.freepik.com/free-ai-image/futuristic-moon-background_83186262.htm#fromView=keyword&page=1&position=13&uuid=d386bf5c-3b6e-4e3b-86e6-305b1f94ac08&query=Sphere+Sky 
+[X] 4-1 is a fake sky box (get close to edge) [09-04-01]: zoom slightly out to see
+[X] there is a reflective object in the scene that shows the environment map [09-05-01]: same skybox as 4
+[X] environment map matches environment [09-05-01]: 
+[X] explanation of why env map is appropriate [09-05-01]: I think this is a good map because the moon creates a cool circle on the sphere on two ends
+[X] there are shadows [09-06-01]: 
+[X] there are shadows of one object onto another object [09-06-01]: 
+[X] there is an object reflecting the environment (checks for code using current framework) [09-07-01]: 
+[X] the reflections show the scene (not just the background) [09-07-01]: 
+[X] you can see moving objects in the reflection [09-07-01]: 
+[X] not the same as the example (checks for code using current framework) [09-07-01]: 
+[ ] combine bump/normal with color map, with explanation [09-03-01]: 
+[ ] combine env map with other map types and explain [09-05-01]: 
+[ ] video screen showing what a camera moving in the scene sees [09-07-01]: 

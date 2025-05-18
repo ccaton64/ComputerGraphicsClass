@@ -1,0 +1,24 @@
+Wisc ID: ccaton
+GitHub ID: ccaton64
+
+[X] correct WB10 Canvas Assignment submission on time [none]: 
+[X] completed 10-workbook.txt in the for_student folder correctly [none]: 
+[X] answered basic questions (1 pt each) [10-01-01]: 
+[X] change the color in 10-02-01.fs from yellow to something else [10-02-01]: 
+[X] some dots are blue, some are green [10-05-02]: 
+[X] change diffuse lighting (direction and 2-sidedness) [10-04-02b]: 
+[X] add diffuse lighting [10-04-03]: 
+[X] change specular to white [10-04-03]: 
+[X] explain how you know it is correct [10-04-03]: 
+[X] looks like a checkerboard [10-06-01]: 
+[X] responds to slider [10-06-01]: 
+[X] some other pattern [10-06-02]: 
+[X] non-jaggy checkerboard [10-07-02]: 
+[X] has a procedural pattern [10-09-01]: 
+[X] has lighting [10-09-01]: 
+[X] has an image-based texture [10-09-02]:
+[X] has lighting [10-09-02]: 
+[X] Some shader that is different than what is in other boxes [10-09-03]: 
+[X] has some example with attribution and explaination [10-10-01]: https://glslsandbox.com/e#109695.0 all I had to do to fix this one was change the coordinate mapping to vUv mapping
+[X] implement the color animation inside the fragment shader using the provided time uniform [10-02-02]: 
+[ ] something beyond basic lighting with texture (required explanation) [10-09-02]: 

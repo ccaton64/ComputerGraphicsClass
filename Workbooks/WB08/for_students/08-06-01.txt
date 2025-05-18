@@ -1,0 +1,9 @@
+Please describe the buildings you created in this file 08-06-01.txt
+
+Explain how you made the buildings. 
+
+I made the church from a BufferGeometry big box with a texture plastered on it then added a simple geom roof and simple geom box cross.
+the texture was made by AI and then heavily edited because it did not understand how to place stuff in a way that would work.
+
+The tent was made from simple geometry and then added texture to the side
+tent texture made in mspaint because i am not an art guy.

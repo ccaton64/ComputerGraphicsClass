@@ -1,0 +1,43 @@
+<html>
+<body>
+    <label for="name">Wisc ID</label>: <input id="name" type="text" placeholder="email without @wisc.edu"><br> 
+    <label for="git">GitHub ID</label>: <input id="git" placeholder="github id"><br> 
+    	<hr><input type="checkbox" id="c1" value="20"> (20) <label id="l1" for="c1">correct WB5 Canvas Assignment submission on time [none]</label>: <textarea id="t1" placeholder="add notes here"></textarea><br>
+	<input type="checkbox" id="c2" value="20"> (20) <label id="l2" for="c2">completed 05-workbook.txt in the for_student folder correctly [none]</label>: <textarea id="t2" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c3" value="2"> (2) <label id="l3" for="c3">implement the correct tangent vector for the parabola [05-01-02]</label>: <textarea id="t3" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c4" value="2"> (2) <label id="l4" for="c4">cubic coefficients question [05-03-01]</label>: <textarea id="t4" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c5" value="2"> (2) <label id="l5" for="c5">evaluate Hermite [05-04-01]</label>: <textarea id="t5" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c6" value="4"> (4) <label id="l6" for="c6">divide the Bezier curve [05-07-03]</label>: <textarea id="t6" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c7" value="3"> (3) <label id="l7" for="c7">recreated the picture using canvas [05-09-01]</label>: <textarea id="t7" placeholder="add notes here"></textarea><br>
+	<input type="checkbox" id="c8" value="2"> (2) <label id="l8" for="c8">didn't use quadratic commands but got the correct shape using cubics [05-09-01]</label>: <textarea id="t8" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c9" value="5"> (5) <label id="l9" for="c9">draw a picture that demonstrate the use of bezierCurveTo in Canvas [05-09-02]</label>: <textarea id="t9" placeholder="add notes here"></textarea><br>
+	<input type="checkbox" id="c10" value="1"> (1) <label id="l10" for="c10">explained where there is G(1) continuity between Bezier segments [05-09-02]</label>: <textarea id="t10" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c11" value="5"> (5) <label id="l11" for="c11">make the green dot go around the triangle with arc-length parameterization [05-10-03]</label>: <textarea id="t11" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c12" value="5"> (5) <label id="l12" for="c12">draw the spiral [05-11-01]</label>: <textarea id="t12" placeholder="add notes here"></textarea><br>
+	<input type="checkbox" id="c13" value="1"> (1) <label id="l13" for="c13">checkbox control of lines [05-11-01]</label>: <textarea id="t13" placeholder="add notes here"></textarea><br>
+	<input type="checkbox" id="c14" value="2"> (2) <label id="l14" for="c14">slider control of number of points [05-11-01]</label>: <textarea id="t14" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c15" value="2"> (2) <label id="l15" for="c15">make a cardinal spline through the points [05-12-01]</label>: <textarea id="t15" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c16" value="2"> (2) <label id="l16" for="c16">split the Bezier [05-12-02]</label>: <textarea id="t16" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c17" value="1"> (1) <label id="l17" for="c17">time slider has range 0-2 [05-13-01]</label>: <textarea id="t17" placeholder="add notes here"></textarea><br>
+	<input type="checkbox" id="c18" value="1"> (1) <label id="l18" for="c18">something spins as time goes by [05-13-01]</label>: <textarea id="t18" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c19" value="1"> (1) <label id="l19" for="c19">dots drawn - and can be dragged [05-13-02]</label>: <textarea id="t19" placeholder="add notes here"></textarea><br>
+	<input type="checkbox" id="c20" value="1"> (1) <label id="l20" for="c20">lines connecting dots [05-13-02]</label>: <textarea id="t20" placeholder="add notes here"></textarea><br>
+	<input type="checkbox" id="c21" value="1"> (1) <label id="l21" for="c21">initial hexagon - ui works [05-13-02]</label>: <textarea id="t21" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c22" value="3"> (3) <label id="l22" for="c22">approximate spiral with Beziers, have a switch for lines/Beziers [05-11-01]</label>: <textarea id="t22" placeholder="add notes here"></textarea><br>
+	<hr><input type="checkbox" id="c23" value="4"> (4) <label id="l23" for="c23">draw 20 distinct points on the curve [05-12-01]</label>: <textarea id="t23" placeholder="add notes here"></textarea><br>
+	<input type="checkbox" id="c24" value="5"> (5) <label id="l24" for="c24">the 20 points have equal arc-length between consecutive points [05-12-01]</label>: <textarea id="t24" placeholder="add notes here"></textarea><br>
+   <hr><p id="workbook">05-workbook.txt</p>
+    <textarea id="area" placeholder="click the 'Generate' button to create the text file, then 'Download' to download the content of this text area." rows="6" cols="60"></textarea><br>
+    <button onclick="grade()">Generate</button>
+    <button onclick="copy()">Copy</button>
+    <button onclick="download()">Download</button>
+    For grader: <button onclick="grader()">-</button>
+    <script type="module">
+        import { grade, copy, download, load, grader } from "../libs/CS559/gradeWorkbook.js";
+        window.grade = grade;
+        window.copy = copy;
+        window.download = download;
+        window.grader = grader;
+        load();
+    </script>
+</body>

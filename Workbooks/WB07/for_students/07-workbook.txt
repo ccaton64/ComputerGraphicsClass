@@ -1,0 +1,31 @@
+Wisc ID: ccaton
+GitHub ID: ccaton64
+
+[X] correct WB7 Canvas Assignment submission on time [none]: 
+[X] completed 07-workbook.txt in the for_student folder correctly [none]: 
+[X] Some aircraft that isn’t a donut [07-06-01]: 
+[X] A propeller that spins (not the body) [07-06-01]: 
+[X] More than one propeller spinning (per aircraft) [07-06-01]: 
+[X] (at least) One aircraft that flies in a circle (or curved path) [07-06-01]: 
+[X] aircraft points forward as it moves [07-06-01]: 
+[X] multiple aircraft both moving, both with propellers [07-06-01]: 
+[X] Radar dish (or some pointable object) [07-06-01]: 
+[X] Radar correctly points at aircraft (tracks as aircraft moves) - should use lookat [07-06-01]: 
+[X] take out bouncing cube [07-08-01]: 
+[X] place at least 1 more swing [07-08-01]: 
+[X] place carousel [07-08-01]: 
+[X] carousel has poles and ''horses'' [07-08-01]: 
+[X] carousel has correct motion (spins, horses go up and down) [07-08-01]: 
+[X] another moving object [07-08-01]: 
+[X] equipment 1 is identifiable (can tell what it is) [07-09-01]: Forklift
+[X] equipment 2 is identifiable [07-09-01]: Wrecking ball
+[X] equipment 1 has correct articulation [07-09-01]: 
+[X] equipment 2 has correct articulation [07-09-01]: 
+[X] UI works for 1&2 [07-09-01]: 
+[X] good use of colors/materials for all equipment (not just one color) [07-09-01]: 
+[X] more complex motion [07-06-01]: 
+[X] multiple types of aircraft - each with an articulation/propeller [07-06-01]: 
+[X] more theme park rides (with hierarchical motion [07-08-01]: Tea cup ride
+[ ] more theme park rides (with hierarchical motion [07-08-01]: 
+[X] third machine identifyable with working articulation [07-09-01]: Cement mixer
+[X] at least one object has 4+ d.o.f. (beyond position/orientation) [07-09-01]: Wrecking ball has: cab spin, arm angle, ball position , and ball height

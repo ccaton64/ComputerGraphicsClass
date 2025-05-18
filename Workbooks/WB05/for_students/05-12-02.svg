@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300px" height="200px">
+    <!-- First segment to be red-->
+    <path stroke="red" fill="none" stroke-width="5" d="M20,20 C 56,20 78.67,56 95.33,74" />
+    <!-- Second segment to be green -->
+    <path stroke="green" fill="none" stroke-width="5" d="M95.33,74 C 112,92 128,92 162.67,74" />
+    <!-- Third segment to be blue -->
+    <path stroke="blue" fill="none" stroke-width="5" d="M162.67,74 C 197.33,56 218.67,20 236,74" />
+</svg>

@@ -1,0 +1,41 @@
+Please indicate the features you have implemented here by putting an "x" (i.e. "[x]") and a brief explanation of what the graders need to do to see it:
+
+# Features:
+[ ] Simple cardinal spline track:
+[ ] Simple track drawn as Beziers:
+[ ] Train goes around the track:
+[ ] Interface still works:
+[ ] Train has a front:
+[ ] Train points in the right direction:
+[ ] Train motion/direction is correct when points added/removed/changed: 
+[ ] Default track shows off arc length:
+[ ] Arc-length parameterization:
+[ ] Rail ties perpendicular:
+[ ] Rail ties correctly spaced:
+[ ] Parallel rails:
+[ ] Multiple cars:
+[ ] Trucked wheels:
+[ ] Slider to control tension:
+[ ] Switchable B-Splines:
+[ ] Smoke:
+[ ] Scenery:
+[ ] Scenery adapts to track:
+
+Artistic merit points are at the discretion of the grader.
+
+Note: please refer to the workbook instructions and rubrics for the detailed requirements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

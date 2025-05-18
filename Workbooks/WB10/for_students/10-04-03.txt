@@ -1,0 +1,5 @@
+Answer the question.
+
+You can tell that this is correct as you increase the shine bar the amount of visible white decreases
+and the gold/yellow becomes more prominent.
+

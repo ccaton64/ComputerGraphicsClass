@@ -1,0 +1,15 @@
+Where did the image come from? 
+
+bad meme pinterest board
+https://au.pinterest.com/vs_ace/memes/
+
+
+
+What lighting did you implement?
+
+There is a single directional light using lightDir = vec3(0,0,1)
+
+
+Did you do anything beyond basic texure with diffuse lighting (explain)?
+
+I did not

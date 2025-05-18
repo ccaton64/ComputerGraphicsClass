@@ -1,0 +1,25 @@
+Wisc ID: ccaton
+GitHub ID: ccaton64
+
+[X] correct WB6 Canvas Assignment submission on time [none]: 
+[X] completed 06-workbook.txt in the for_student folder correctly [none]: 
+[X] move the yellow cube [06-02-02]: 
+[X] stacking the boxes as described [06-04-03]: 
+[X] add lights to scene so that sides of the cubes appear in different colors [06-05-03]: 
+[X] give each sphere a different, non-white material (1/2 pt each, 1/2 pt for all different) [06-06-01]: 
+[X] Visible Objects (requires lights, camera, at least some shapes) [06-08-01]: 
+[X] Different materials used (everything isn't the same color [06-08-01]: 
+[X] There is a ground, Snowman on ground [06-08-01]: 
+[X] Snowman Body as 3 stacked spheres [06-08-01]: 
+[X] Snowman Face (eyes, nose, mouth [06-08-01]: 
+[X] Museum cameras work (1/2 pt per camera) [06-09-01]: 
+[X] Museum objects (1 pt for each object that is more than a simple primitive) [06-09-01]: 
+[X] Museum objects correctly placed (1 pt per new object) [06-09-01]: 
+[X] Museum objects move correctly (1 pt per new object), not all the same [06-09-01]: 
+[X] Museum objects each have spotlights (1/2 pt per object) [06-09-01]: 
+[X] Each new object has its own material [06-09-01]: 
+[X] Animated snowman [06-08-01]: 
+[X] Second, creative snowman [06-08-01]: hes melted
+[ ] At least one object has articulated motion [06-09-01]: 
+[X] Complex museum objects [06-09-01]: 
+[X] Complex museum object motions [06-09-01]: 

@@ -1,0 +1,51 @@
+<!-- here is a big, empty SVG! make it into something interesting! -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="600px" width="600px">
+    <!-- you can delete this big rectangle - it's just a placeholder -->
+    <rect x="0" y="0" height="600" width="600" fill="#90D5FF" />
+
+    <g fill="#FF6961">
+        <!-- the red strawberry part-->
+        <path d="M 300, 150 Q 350, 100, 500, 250 Q 550, 300, 300, 550 Z" />
+        <path d="M 300, 150 Q 250, 100, 100, 250 Q 50, 300, 300, 550 Z" />
+    </g>
+
+    <g fill="#FFEE8C">
+        <!-- the yellow seeds part -->
+        <!-- use use and transform to move all the seeds-->
+        <g id="shortRow">
+            <!-- Group of seeds to be repeated further down-->
+            <ellipse id="seed" cx="300" cy="200" rx="5" ry="10" />
+            <use href="#seed" transform="translate(-50)" />
+            <use href="#seed" transform="translate(-100)" />
+            <use href="#seed" transform="translate(50)" />
+            <use href="#seed" transform="translate(100)" />
+        </g>
+        <use href="#shortRow" transform="translate(0, 100)" />
+        <use href="#shortRow" transform="translate(0, 200)" />
+        <g id="longRow">
+            <ellipse id="seed1" cx="325" cy="250" rx="5" ry="10" />
+            <use href="#seed1" transform="translate(-50)" />
+            <use href="#seed1" transform="translate(-100)" />
+            <use href="#seed1" transform="translate(-150)" />
+            <use href="#seed1" transform="translate(-180)" />
+            <use href="#seed1" transform="translate(50)" />
+            <use href="#seed1" transform="translate(100)" />
+            <use href="#seed1" transform="translate(130)" />
+        </g>
+        <use href="#longRow" transform="translate(0, 100)" />
+        <!--extra seeds to fill space-->
+        <use id="extra" href="#seed" transform="translate(0, 300)" />
+        <use href="#extra" transform="translate(-25, -50)" />
+        <use href="#extra" transform="translate(25, -50)" />
+    </g>
+
+    <g fill="#80Ef80">
+        <!-- the green leafy part -->
+        <!-- use transform to flip and mirror the leaf-->
+        <path id="leaf" d="M 300, 125 Q 400, 100, 450, 175 Q350, 200, 300, 125 Z" />
+        <use href="#leaf" transform="rotate(45, 300, 125)" />
+        <use href="#leaf" transform="rotate(90, 300, 125)" />
+        <use href="#leaf" transform="rotate(140, 300, 125)" />
+    </g>
+</svg>
+

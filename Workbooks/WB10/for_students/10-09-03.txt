@@ -1,0 +1,3 @@
+Explain what your shader does and how it works.
+I was trying to emulate a neon sign being increased in lighting so i put it on a grid and had the light be the width of the line and its blur effect
+

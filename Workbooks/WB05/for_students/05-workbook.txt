@@ -1,0 +1,27 @@
+Wisc ID: ccaton
+GitHub ID: ccaton64
+
+[X] correct WB5 Canvas Assignment submission on time [none]: 
+[X] completed 05-workbook.txt in the for_student folder correctly [none]: 
+[X] implement the correct tangent vector for the parabola [05-01-02]: 
+[X] cubic coefficients question [05-03-01]: 
+[X] evaluate Hermite [05-04-01]: 
+[X] divide the Bezier curve [05-07-03]: 
+[X] recreated the picture using canvas [05-09-01]: 
+[X] didn't use quadratic commands but got the correct shape using cubics [05-09-01]: 
+[X] draw a picture that demonstrate the use of bezierCurveTo in Canvas [05-09-02]: 
+[X] explained where there is G(1) continuity between Bezier segments [05-09-02]: 
+[X] make the green dot go around the triangle with arc-length parameterization [05-10-03]: 
+[X] draw the spiral [05-11-01]: 
+[X] checkbox control of lines [05-11-01]: 
+[X] slider control of number of points [05-11-01]: 
+[X] make a cardinal spline through the points [05-12-01]: 
+[X] split the Bezier [05-12-02]: 
+[X] time slider has range 0-2 [05-13-01]: 
+[X] something spins as time goes by [05-13-01]: 
+[X] dots drawn - and can be dragged [05-13-02]: 
+[X] lines connecting dots [05-13-02]: 
+[X] initial hexagon - ui works [05-13-02]: 
+[ ] approximate spiral with Beziers, have a switch for lines/Beziers [05-11-01]: 
+[X] draw 20 distinct points on the curve [05-12-01]: 
+[ ] the 20 points have equal arc-length between consecutive points [05-12-01]: 
