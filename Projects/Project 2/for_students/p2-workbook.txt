@@ -1,0 +1,44 @@
+Wisc ID:  ccaton
+GitHub ID:ccaton64
+
+[X] correct P2 Canvas Assignment submission on time [none]: 
+[X] completed p2-workbook.txt in the for_student folder correctly [none]: 
+[X] clear explanations in p1-workbook.txt [none]: 
+[X] program runs (or seems to run correctly - worth looking at error console) [final-grtown]: 
+[X] frame rate seems OK (not too slow) [final-grtown]: 
+[X] UI is there and seems to work (can lookat and ride) [final-grtown]: 
+[X] highlight list looks OK [final-grtown]: 
+[X] visually distinct from example [final-grtown]: 
+[X] theme makes sense (need explanation) [final-grtown]: Cowboy town  skybox here https://www.freepik.com/free-ai-image/beautiful-cacti-plant-with-desert-landscape-sunset_138341471.htm#fromView=search&page=1&position=1&uuid=d247227f-d14d-450c-aeb0-37861f923184&query=western+skybox
+[X] cool theme bonus (need explanation) [final-grtown]: I think that the cowboy town is a cool theme
+[X] objects created for this assignment 1, not trivial, can be identified in world (need explanation) [final-grtown]: Cacti with randomly generated arm placments and rotations
+[X] objects created for this assignment 2, not trivial, can be identified in world (need explanation) [final-grtown]: Fire pit
+[X] 5 more kinds of objects 1, not trivial, can identify (need explanation) [final-grtown]: Tent from previous workbook
+[X] 5 more kinds of objects 2, not trivial, can identify (need explanation) [final-grtown]: Wagon from previous workbook. Moves around circle
+[X] 5 more kinds of objects 3, not trivial, can identify (need explanation) [final-grtown]: Old style windmill I made in blender for a game I was making a few years ago.
+[X] 5 more kinds of objects 4, not trivial, can identify (need explanation) [final-grtown]: Graves with dirt textrure from https://opengameart.org/content/dirt-ground-seamless-free-muddyground0jpg and stone texture from https://unsplash.com/photos/grayscale-photo-of-rock-formation-i1O_Hr6cbWc
+[X] 5 more kinds of objects 5, not trivial, can identify (need explanation) [final-grtown]: Road with texture from https://www.freepik.com/free-photo/decorative-graphic-ancient-frame-grain_1147485.htm#fromView=keyword&page=1&position=0&uuid=0c234c7f-6450-4614-8a8e-1731dd5cdeda&query=Dirt+Road+Texture
+[X] has building, natural, vehicle (need explanation) [final-grtown]: multiple types of buildings. natural comes from cactus, and vehicle is horse and also wagon
+[X] loaded model (need explanation) [final-grtown]: windmill and cowboys loaded in
+[ ] shader: identifiable and not trivial (need explanation) [final-grtown]: 
+[X] three behaviors you made 1, not trivial, can be identified in scene (need explanation) [final-grtown]: Wagon goes around track with wheels moving at seperate rate 
+[X] three behaviors you made 2, not trivial, can be identified in scene (need explanation) [final-grtown]: Bullet gets shot from one cowboys gun to the other
+[X] three behaviors you made 3, not trivial, can be identified in scene (need explanation) [final-grtown]: Moving flame
+[X] at least one object is rideable / followable [final-grtown]: 
+[ ] behavior that is not simple (need explanation) [final-grtown]: 
+[ ] articulated figure (need explanation) [final-grtown]: 
+[X] advanced thing 1: has a challenge type (need the name and number from the list) [final-grtown]:  Cacti follow 11 Procedurally generated geometry
+[X] advanced thing 1: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[X] advanced thing 1: points above and beyond (need explanation) [final-grtown]: 
+[X] advanced thing 2: has a challenge type (need the name and number from the list) [final-grtown]: rising smoke 4 particle system 
+[X] advanced thing 2: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 2: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 3: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 3: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 3: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 4: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 4: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 4: points above and beyond (need explanation) [final-grtown]: 
+[ ] advanced thing 5: has a challenge type (need the name and number from the list) [final-grtown]: 
+[ ] advanced thing 5: works properly, can be identified in the town (need explanation) [final-grtown]: 
+[ ] advanced thing 5: points above and beyond (need explanation) [final-grtown]: 
